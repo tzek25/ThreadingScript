@@ -1,0 +1,272 @@
+****************
+Please wait...
+
+
+Password updated successfully.
+admin:****************
+Please wait...
+
+
+Password updated successfully.
+admin: PHRCNXCMT1 -- Password Initiated changed to ChangingAgain123 2020-03-09 19:58:31.357737**********
+Please wait...
+
+Password cannot be reused now. Choose another. 
+admin:**********
+Please wait...
+
+Password cannot be reused now. Choose another. 
+admin: PHRCNXCMT1 -- Password Initiated changed to Chevr0nIPT 2020-03-09 20:00:33.607770*****************
+Please wait...
+
+BAD PASSWORD: is too similar to the old one
+admin:*****************
+Please wait...
+
+BAD PASSWORD: is too similar to the old one
+admin: PHRCNXCMT1 -- Password Initiated changed to ChangingAgain123! 2020-03-09 20:26:32.334746**********
+Please wait...
+
+
+Password updated successfully.
+admin:**********
+Please wait...
+
+
+Password updated successfully.
+admin: PHRCNXCMT1 -- Password Initiated changed to p@ssw0rD1! 2020-03-09 20:28:41.764254**********
+Please wait...
+
+BAD PASSWORD: it is based on a dictionary word
+admin:**********
+Please wait...
+
+BAD PASSWORD: it is based on a dictionary word
+admin: PHRCNXCMT1 -- Password Initiated changed to Changing1! 2020-03-09 20:31:54.384500**********
+Please wait...
+
+
+Password updated successfully.
+admin:**********
+Please wait...
+
+
+Password updated successfully.
+admin: PHRCNXCMT1 -- Password Initiated changed to Ch@nging1! 2020-03-09 20:33:19.566201***********
+Please wait...
+
+
+Password updated successfully.
+admin:***********
+Please wait...
+
+
+Password updated successfully.
+admin: PHRCNXCMT1 -- Password Initiated changed to Tzektzek_25 2020-03-10 21:32:45.148637***********
+Please wait...
+
+
+Password updated successfully.
+admin:***********
+Please wait...
+
+
+Password updated successfully.
+admin: PHRCNXCMT1 -- Password Initiated changed to Tzektzek_25 2020-03-10 21:34:33.201772***********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to Tzekie_2590 2020-03-10 21:43:19.510137***********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to Tzekie_2590 2020-03-10 21:44:28.630781********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to H@ppy123 2020-03-10 21:56:49.262642********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to H@ppy123 2020-03-10 22:00:53.462955*********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to R@ndom123 2020-03-10 22:02:56.177916*********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to R@ndom123 2020-03-10 22:03:28.866340*********
+Please wait...
+
+BAD PASSWORD: it is based on a dictionary word
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to Hello123! 2020-03-11 11:20:04.035810*********
+Please wait...
+
+BAD PASSWORD: it is based on a dictionary word
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to Hello123! 2020-03-11 11:20:27.583732***********
+Please wait...
+
+Password cannot be reused now. Choose another. 
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to Tzekie_2590 2020-03-12 07:35:16.854266***********
+Please wait...
+
+Password cannot be reused now. Choose another. 
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to Tzekie_2590 2020-03-12 07:35:36.155649**********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to Tzekie@123 2020-03-20 17:50:47.926783**********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to Tzekie@123 2020-03-20 17:51:18.851251**************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to myp@ssw0erd123 2020-03-21 03:37:34.073164**************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to myp@ssw0erd123 2020-03-21 03:38:09.898337**************
+Please wait...
+
+BAD PASSWORD: is too similar to the old one
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to Newp@ssw0rd123 2020-04-13 10:39:37.299619**************
+Please wait...
+
+BAD PASSWORD: is too similar to the old one
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to Newp@ssw0rd123 2020-04-13 10:40:08.826074***************
+Please wait...
+
+BAD PASSWORD: is too similar to the old one
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to myp@ssw0erd1234 2020-04-14 08:42:05.013619***************
+Please wait...
+
+BAD PASSWORD: is too similar to the old one
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to myp@ssw0erd1234 2020-04-14 08:42:34.649686*************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to new@p@ssw0rD1 2020-04-14 08:46:42.249399*************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to new@p@ssw0rD1 2020-04-14 08:47:30.012722**********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to Thi$is@n3W 2020-04-15 09:25:02.612258**********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to Thi$is@n3W 2020-04-15 09:25:35.241710************
+Please wait...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to r3ad712343ds 2020-04-15 10:38:31.870494************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to r3ad712343ds 2020-04-15 10:39:03.100195*************
+Please wait...
+
+BAD PASSWORD: it is too simplistic/systematic
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to r@nd0m123456! 2020-04-15 10:50:03.485906*************
+Please wait...
+
+BAD PASSWORD: it is too simplistic/systematic
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to r@nd0m123456! 2020-04-15 10:50:33.374531***********************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to fdfdkjdslfnemrnkje234@@ 2020-04-15 10:51:43.574872***********************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to fdfdkjdslfnemrnkje234@@ 2020-04-15 10:52:31.883252**********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to H3ll02020! 2020-04-28 06:49:15.365556**********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to H3ll02020! 2020-04-28 06:49:51.838107************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to T3$t@gain123 2020-05-01 10:41:56.993258***************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to Tz#k!3qwewdsd12 2020-05-01 10:53:58.806976***************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to Tz#k!3qwewdsd12 2020-05-01 10:54:00.157572************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to F!n@lt3sT123 2020-05-01 11:11:01.318402************
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to F!n@lt3sT123 2020-05-01 11:11:01.377243***********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.184 PHRCNXCMT1 -- Password Initiated changed to Th#l@sT123! 2020-05-01 11:19:41.874956***********
+Please wait...
+
+
+Password updated successfully.
+admin:146.44.9.186 PHRCNXCMT1 -- Password Initiated changed to Th#l@sT123! 2020-05-01 11:19:42.564096
